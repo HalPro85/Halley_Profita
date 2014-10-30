@@ -60,6 +60,7 @@ Nikolaus Correll
 * D. Hughes, H. Profita, and N. Correll. SwitchBack: An On-Body RF-Based Gesture Input Device. In Proc. of the 18th International Symposium on Wearable Computers (ISWC), Seattle, WA, Sep. 2014. Acceptance rate: 25%.
 * H. Profita. Smart Garments: An On-Body Interface for Sensory Augmentation and Substitution. In Adjunct Proc. of Ubiquitous Computing (UbiComp), Seattle, WA, Sep. 2014.
 * L. Dunne, H. Profita, C. Zeagler, J. Clawson, S. Gilliland, E. Do., and J. Budd. The Social Comfort of Wearable Technology and Gestural Interactions. In the 36th Annual International Conference on the IEEE Engineering in Medicine and Biology Society, Chicago, IL, Aug. 2014.
+* L. Dunne, H. Profita, and C. Zeagler. Chapter: Social Aspects of Wearability and Interaction. “Wearable Sensors – Fundamentals, Implementation and Applications.” Edited by Edward Sazonov and Michael R. Neuman. Elsevier, pp. 25-43, Aug. 2014. ISBN: 978-0-12-418662-0.
 * S. Ananthanarayan, M. Sheh, A. Chien, H. Profita, and K. Siek. Designing wearable interfaces for knee rehabilitation exercises,” in 8th International Conference on Pervasive Computing Technologies for Healthcare (PervasiveHealth ’14), Oldenburg, Germany, May 2014.
 * Profita, H. P., Clawson, J., Gilliland, S., Zeagler, C., Starner, T., Budd, J., & Do, E. Y. L. (2013, September). Don't mind me touching my wrist: a case study of interacting with on-body technology in public. In Proceedings of the 17th annual international symposium on International symposium on wearable computers (pp. 89-96). ACM.
 * Lyons, K., Nguyen, D. H., Seki, S., White, S., Ashbrook, D., & Profita, H. (2013, October). BitWear: a platform for small, connected, interactive devices. In Proceedings of the adjunct publication of the 26th annual ACM symposium on User interface software and technology (pp. 73-74). ACM.
@@ -74,10 +75,12 @@ Nikolaus Correll
 
 
 ## Presentations
-
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
+* {“The Social Acceptability of Wearable Technology: A Case Study of Interacting with an On-body E-Textile Interface in Public.” Fall 2013 Graduate STEMinar Series, University of Colorado at Boulder, Boulder, CO, Sep. 2013.}
+* {“The Social Acceptability of Wearable Technology: A Case Study of Interacting with an E-Textile Interface in Public.” Fall 2013 CS Graduate Research Colloquium, University of Colorado at Boulder, Boulder, CO, Sep. 2013.}
+* {“Building Personas: Interactive Installations for Health and Wellness in the Workplace.” 2013 MSR Talk Series, Microsoft Research, Redmond, WA, Aug. 2013.}
+* {“Wear Your Technology: From Electronic Textiles to Sensory Substitution.” 2013 Summer Academy for Advancing Deaf & Hard of Hearing in Computing, University of Washington, Seattle, WA, Jul. 2013.} [pptx](files/presentation-file.pptx)
+* {“Computer Science Graduate Research Panel.” 2012 CSCI Freshman Seminar, University of Colorado at Boulder, Boulder, CO, Dec. 2012.} [pptx](files/presentation-file.pptx)
+* {“BitWear: Small. Wireless. Interactive.” Nokia Research Center, Sunnyvale, CA, Aug. 2012.} [pptx](files/presentation-file.pptx)
       
 ## Awards
 * PEO Scholarship Finalist - 2015 (TBD)
@@ -95,9 +98,11 @@ I served as a graduate teaching assistant for consecutive introductory programmi
 
 # Service
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
+* {CS Social Committee}
+* {Student Design Competition Co-Chair for the 5th Augmented Human International Conference, 2015}
+* {Media Chair for ACM SIGCHI International Joint Conference UbiComp/ISWC 2014}
+* {Reviewed for ACM SIGCHI International Symposium on Wearable Computers (ISWC) 2014}
+* {Reviewed for ACM SIGCHI 8th Nordic Conference on Human-Computer Interaction (NordiCHI) 2014}
 
 # Highlights
 
