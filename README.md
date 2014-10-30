@@ -47,7 +47,7 @@ Nikolaus Correll
 | CSCI 5444 Intro to Theory of Comp | Fall 2011 | Fall 2011  | no | yes|
 | CSCI 5919 HCC Survey-Foundation | Fall 2013 | Fall 2013  | no | yes|
 | EMEN 5031 Software Project Management | Fall 2013 | Fall 2013  | no | yes|
-| CSCI 7000 Current tpcs in Comp Science Advance Robotics | Spring 2013 | Spring 2013  | no | yes|
+| CSCI 7000 Current tpcs in Comp Science Advance Robotics | Spring 2013 | Spring 2013  | no | yes (waiver)|
 | XTCR 5999TC  Graduate Boulder Transfer (User Centered Design)| Fall 2011 | Fall 2011  | no | yes|
 | CSCI 6000 Intro to CSCI PhD Program | Fall 2011 | Fall 2011  | yes/no | yes/no|
 | CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2011  | yes/no | yes/no|
