@@ -35,8 +35,8 @@ Nikolaus Correll
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {Fall} {2011} |                   |
-| Area Exam            | {semester} {year} | {Fall} {2014} |
+| Start                | Fall 2011         |                   |
+| Area Exam            | {semester} {year} | Fall 2014         |
 | Proposal Defense     | {semester} {year} | {semester} {year} |
 | Dissertation Defense | {semester} {year} | {semester} {year} |
 
