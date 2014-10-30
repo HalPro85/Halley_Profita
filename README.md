@@ -44,7 +44,7 @@ Nikolaus Correll
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| {CSCI 5444} {Intro to Theory of Comp} | {Fall} {2011} | {Fall} {2011}  | {no} | {yes}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
