@@ -12,10 +12,10 @@ Halley.Profita@Colorado.EDU
 ![profile photo](files/1BAfUfCWwdbVfDFQPeoTmOzBAcvZZdNEZpVEUR71-k3I-photo-0.png)
 
 ## Website
-
+www.halleyprofita.com
 
 # Current Funding
-Graduate Teaching Assistant
+Graduate Research Assistant
 
 # PhD Program
 
@@ -28,14 +28,15 @@ Nikolaus Correll
 * Nikolaus Correll
 *  Clayton Lewis
 *  Michael Lightner
+*  Shaun Kane
 
 
 ## Milestones
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
+| Start                | {Fall} {2011} |                   |
+| Area Exam            | {semester} {year} | {Fall} {2014} |
 | Proposal Defense     | {semester} {year} | {semester} {year} |
 | Dissertation Defense | {semester} {year} | {semester} {year} |
 
@@ -55,7 +56,7 @@ Nikolaus Correll
 ## Publications
 
 
-* Nguyen, D., Profita, H., Lyons, K., Ashbrook, D., and White, S. Contextualized Exploration of Tiny, Interactive Devices. (In Review, CHI 2014).
+* 
 * Profita, H. P., Clawson, J., Gilliland, S., Zeagler, C., Starner, T., Budd, J., & Do, E. Y. L. (2013, September). Don't mind me touching my wrist: a case study of interacting with on-body technology in public. In Proceedings of the 17th annual international symposium on International symposium on wearable computers (pp. 89-96). ACM.
 * Lyons, K., Nguyen, D. H., Seki, S., White, S., Ashbrook, D., & Profita, H. (2013, October). BitWear: a platform for small, connected, interactive devices. In Proceedings of the adjunct publication of the 26th annual ACM symposium on User interface software and technology (pp. 73-74). ACM.
 * B. Leduc-Mills, H. Profita, S. S. Bharadwaj, P. Cromer, and R. Han. “ioCane: A Smart-Phone and Sensor-Augmented Mobility Aid for the Blind.” Univ. of Colorado Dept. of Computer Science, Boulder, CO, 2013, Tech. Rep.: 000031765.
@@ -75,8 +76,8 @@ Nikolaus Correll
 * {what,where,when} [pptx](files/presentation-file.pptx)
       
 ## Awards
-
-
+* PEO Scholarship Finalist - 2015 (TBD)
+* Beverly Sears Research Grant 2013-2014
 * Microsoft Graduate Research Fellowship: Finalist 2013
 * International Symposium on Wearable Computers (ISWC) Design Competition     First Place for Best In Show and Most Inclusive and Usable Design -  2012
 * University Fellowship, University of Colorado at Boulder, 2011 - 2012
@@ -84,9 +85,9 @@ Nikolaus Correll
 
 # Teaching
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
+* {COMPUTER SCIENCE 1300: PROGRAMMING – UNIVERSITY OF COLORADO AT BOULDER, 1/2013 – 5/2013, 8/2013 – 5/2014
+I served as a graduate teaching assistant for consecutive introductory programming classes for the Computer Science Department. This work entailed devising and teaching complementary course recitations (labs), assisting students with subject matter comprehension, grade keeping, and interview grading to test fundamental course concepts.}
+
 
 # Service
 
