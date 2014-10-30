@@ -44,11 +44,11 @@ Nikolaus Correll
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {CSCI 5444} {Intro to Theory of Comp} | {Fall} {2011} | {Fall} {2011}  | {no} | {yes}|
-| {CSCI 6000} {Intro to CSCI PhD Program} | {Fall} {2011} | {Fall} {2011}  | {yes/no} | {yes/no}|
-| {CSCI 8900} {Doctoral Dissertation} | {Fall} {2011} | {Fall} {2011}  | {yes/no} | {yes/no}|
-| {ECEN 5053} {Special Topics (Assistiv Tech for Ppl w/ Disabl} | {Spring} {2012} | {Spring} {2012}  | {yes} | {no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| CSCI 5444 Intro to Theory of Comp | Fall 2011 | Fall 2011  | no | yes|
+| CSCI 6000 Intro to CSCI PhD Program | Fall 2011 | Fall 2011  | yes/no | yes/no|
+| CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2011  | yes/no | yes/no|
+| ECEN 5053 Special Topics (Assistiv Tech for Ppl w/ Disabl | Spring 2012 | Spring 2012  | yes | no|
+| {number} title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 
 # Research
