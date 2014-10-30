@@ -54,9 +54,13 @@ Nikolaus Correll
 # Research
 
 ## Publications
-
-
-* 
+* H. Profita, A. Roseway, and M. Czerwinski. Lightwear: An Exploration in Wearable Light Therapy. To Appear in Proc. of the 9th International Conference on Tangible, Embedded and Embodied Interaction (TEI), Palo Alto, CA, Jan. 2015. Acceptance rate: 28%.
+* H. Profita, N. Farrow, and N. Correll. Flutter: An Exploration of an Assistive Garment Using Distributed Sensing, Computation, and Actuation. To Appear in Proc. of the 9th International Conference on Tangible, Embedded and Embodied Interaction (TEI), Palo Alto, CA, Jan. 2015. Acceptance rate: 28%.
+* K. Lyons and H. Profita. The Multiple Dispositions of Wearable Devices. Pervasive Computing: Special Issue – Wearable Computing, IEEE 13 (4), 24-31, Oct. 2014.
+* D. Hughes, H. Profita, and N. Correll. SwitchBack: An On-Body RF-Based Gesture Input Device. In Proc. of the 18th International Symposium on Wearable Computers (ISWC), Seattle, WA, Sep. 2014. Acceptance rate: 25%.
+* H. Profita. Smart Garments: An On-Body Interface for Sensory Augmentation and Substitution. In Adjunct Proc. of Ubiquitous Computing (UbiComp), Seattle, WA, Sep. 2014.
+* L. Dunne, H. Profita, C. Zeagler, J. Clawson, S. Gilliland, E. Do., and J. Budd. The Social Comfort of Wearable Technology and Gestural Interactions. In the 36th Annual International Conference on the IEEE Engineering in Medicine and Biology Society, Chicago, IL, Aug. 2014.
+* S. Ananthanarayan, M. Sheh, A. Chien, H. Profita, and K. Siek. Designing wearable interfaces for knee rehabilitation exercises,” in 8th International Conference on Pervasive Computing Technologies for Healthcare (PervasiveHealth ’14), Oldenburg, Germany, May 2014.
 * Profita, H. P., Clawson, J., Gilliland, S., Zeagler, C., Starner, T., Budd, J., & Do, E. Y. L. (2013, September). Don't mind me touching my wrist: a case study of interacting with on-body technology in public. In Proceedings of the 17th annual international symposium on International symposium on wearable computers (pp. 89-96). ACM.
 * Lyons, K., Nguyen, D. H., Seki, S., White, S., Ashbrook, D., & Profita, H. (2013, October). BitWear: a platform for small, connected, interactive devices. In Proceedings of the adjunct publication of the 26th annual ACM symposium on User interface software and technology (pp. 73-74). ACM.
 * B. Leduc-Mills, H. Profita, S. S. Bharadwaj, P. Cromer, and R. Han. “ioCane: A Smart-Phone and Sensor-Augmented Mobility Aid for the Blind.” Univ. of Colorado Dept. of Computer Science, Boulder, CO, 2013, Tech. Rep.: 000031765.
