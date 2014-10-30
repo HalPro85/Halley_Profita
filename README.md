@@ -82,15 +82,15 @@ T. Markow, N. Ramakrishnan, K. Huang, T. Starner, M. Eicholtz, S. Garrett, H. Pr
 * “BitWear: Small. Wireless. Interactive.” Nokia Research Center, Sunnyvale, CA, Aug. 2012. [pptx](files/presentation-file.pptx)
       
 ## Awards
-* PEO Scholar Award - Finalist 2015 (TBD)
+* PEO Scholar Award - Finalist, 2015 (TBD)
 * Microsoft Research HCI Office Mix Presentation – Most Creative, 2014
-* Beverly Sears Research Grant 2013-2014
+* Beverly Sears Research Grant, 2013-2014
 * UGGS Travel Grant Award, 2013
 * ISWC Student Travel Grant Award, 2013
-* Microsoft Graduate Research Fellowship: Finalist 2013
+* Microsoft Graduate Research Fellowship - Finalist, 2013
 * International Symposium on Wearable Computers (ISWC) Design Competition     First Place for Best In Show and Most Inclusive and Usable Design -  2012
-* Graduate Student Research Community Development Award, University of Colorado at Boulder, 2011
-* University Fellowship, University of Colorado at Boulder, 2011 - 2012
+* Graduate Student Research Community Development Award - University of Colorado at Boulder, 2011
+* University Fellowship - University of Colorado at Boulder, 2011 - 2012
 
 
 # Teaching
