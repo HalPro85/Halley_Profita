@@ -75,12 +75,12 @@ Nikolaus Correll
 
 
 ## Presentations
-* {“The Social Acceptability of Wearable Technology: A Case Study of Interacting with an On-body E-Textile Interface in Public.” Fall 2013 Graduate STEMinar Series, University of Colorado at Boulder, Boulder, CO, Sep. 2013.}
-* {“The Social Acceptability of Wearable Technology: A Case Study of Interacting with an E-Textile Interface in Public.” Fall 2013 CS Graduate Research Colloquium, University of Colorado at Boulder, Boulder, CO, Sep. 2013.}
-* {“Building Personas: Interactive Installations for Health and Wellness in the Workplace.” 2013 MSR Talk Series, Microsoft Research, Redmond, WA, Aug. 2013.}
-* {“Wear Your Technology: From Electronic Textiles to Sensory Substitution.” 2013 Summer Academy for Advancing Deaf & Hard of Hearing in Computing, University of Washington, Seattle, WA, Jul. 2013.} [pptx](files/presentation-file.pptx)
-* {“Computer Science Graduate Research Panel.” 2012 CSCI Freshman Seminar, University of Colorado at Boulder, Boulder, CO, Dec. 2012.} [pptx](files/presentation-file.pptx)
-* {“BitWear: Small. Wireless. Interactive.” Nokia Research Center, Sunnyvale, CA, Aug. 2012.} [pptx](files/presentation-file.pptx)
+* “The Social Acceptability of Wearable Technology: A Case Study of Interacting with an On-body E-Textile Interface in Public.” Fall 2013 Graduate STEMinar Series, University of Colorado at Boulder, Boulder, CO, Sep. 2013.
+* “The Social Acceptability of Wearable Technology: A Case Study of Interacting with an E-Textile Interface in Public.” Fall 2013 CS Graduate Research Colloquium, University of Colorado at Boulder, Boulder, CO, Sep. 2013.
+* “Building Personas: Interactive Installations for Health and Wellness in the Workplace.” 2013 MSR Talk Series, Microsoft Research, Redmond, WA, Aug. 2013.
+* “Wear Your Technology: From Electronic Textiles to Sensory Substitution.” 2013 Summer Academy for Advancing Deaf & Hard of Hearing in Computing, University of Washington, Seattle, WA, Jul. 2013. [pptx](files/presentation-file.pptx)
+* “Computer Science Graduate Research Panel.” 2012 CSCI Freshman Seminar, University of Colorado at Boulder, Boulder, CO, Dec. 2012. [pptx](files/presentation-file.pptx)
+* “BitWear: Small. Wireless. Interactive.” Nokia Research Center, Sunnyvale, CA, Aug. 2012. [pptx](files/presentation-file.pptx)
       
 ## Awards
 * PEO Scholarship Finalist - 2015 (TBD)
@@ -92,17 +92,17 @@ Nikolaus Correll
 
 # Teaching
 
-* {COMPUTER SCIENCE 1300: PROGRAMMING – UNIVERSITY OF COLORADO AT BOULDER, 1/2013 – 5/2013, 8/2013 – 5/2014
-I served as a graduate teaching assistant for consecutive introductory programming classes for the Computer Science Department. This work entailed devising and teaching complementary course recitations (labs), assisting students with subject matter comprehension, grade keeping, and interview grading to test fundamental course concepts.}
+* COMPUTER SCIENCE 1300: PROGRAMMING – UNIVERSITY OF COLORADO AT BOULDER, 1/2013 – 5/2013, 8/2013 – 5/2014
+I served as a graduate teaching assistant for consecutive introductory programming classes for the Computer Science Department. This work entailed devising and teaching complementary course recitations (labs), assisting students with subject matter comprehension, grade keeping, and interview grading to test fundamental course concepts.
 
 
 # Service
 
-* {CS Social Committee}
-* {Student Design Competition Co-Chair for the 5th Augmented Human International Conference, 2015}
-* {Media Chair for ACM SIGCHI International Joint Conference UbiComp/ISWC 2014}
-* {Reviewed for ACM SIGCHI International Symposium on Wearable Computers (ISWC) 2014}
-* {Reviewed for ACM SIGCHI 8th Nordic Conference on Human-Computer Interaction (NordiCHI) 2014}
+* CS Social Committee
+* Student Design Competition Co-Chair for the 5th Augmented Human International Conference, 2015
+* Media Chair for ACM SIGCHI International Joint Conference UbiComp/ISWC 2014
+* Reviewed for ACM SIGCHI International Symposium on Wearable Computers (ISWC) 2014
+* Reviewed for ACM SIGCHI 8th Nordic Conference on Human-Computer Interaction (NordiCHI) 2014
 
 # Highlights
 
