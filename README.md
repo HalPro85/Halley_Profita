@@ -45,10 +45,13 @@ Nikolaus Correll
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
 | CSCI 5444 Intro to Theory of Comp | Fall 2011 | Fall 2011  | no | yes|
+| CSCI 5919 HCC Survey-Foundation | Fall 2013 | Fall 2013  | no | yes|
+| EMEN 5031 Software Project Management | Fall 2013 | Fall 2013  | no | yes|
+| CSCI 7000 Current tpcs in Comp Science Advance Robotics | Spring 2013 | Spring 2013  | no | yes|
 | CSCI 6000 Intro to CSCI PhD Program | Fall 2011 | Fall 2011  | yes/no | yes/no|
 | CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2011  | yes/no | yes/no|
 | ECEN 5053 Special Topics (Assistiv Tech for Ppl w/ Disabl | Spring 2012 | Spring 2012  | yes | no|
-| {number} title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| CSCI 7900 Doctor's Level Ind Study |  Spring 2012 | Spring 2012  | yes | no|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 
 # Research
