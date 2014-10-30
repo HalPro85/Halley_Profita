@@ -109,6 +109,7 @@ I served as a graduate teaching assistant for consecutive introductory programmi
 
 # Highlights
 
+## U.S. Patent (Provisional) Application No. 62/049,801, Unpublished (filing date Sep. 12, 2014) (Dana Hughes, Halley Profita, Nikolaus Correll, applicants).
 
 ## “Flutter” wins first prizes at the ISWC design exhibition
 
