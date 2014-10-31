@@ -49,11 +49,19 @@ Nikolaus Correll
 | EMEN 5031 Software Project Management | Fall 2013 | Fall 2013  | no | yes|
 | CSCI 7000 Current tpcs in Comp Science Advance Robotics | Spring 2013 | Spring 2013  | no | yes (waived)|
 | XTCR 5999TC  Graduate Boulder Transfer (User Centered Design)| Fall 2011 | Fall 2011  | no | yes|
-| CSCI 6000 Intro to CSCI PhD Program | Fall 2011 | Fall 2011  | yes/no | yes/no|
-| CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2011  | yes/no | yes/no|
+| CSCI 6000 Intro to CSCI PhD Program | Fall 2011 | Fall 2011  | ? | no |
+| CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2011  | ? | no|
 | ECEN 5053 Special Topics (Assistiv Tech for Ppl w/ Disabl | Spring 2012 | Spring 2012  | yes | no|
 | CSCI 7900 Doctor's Level Ind Study |  Spring 2012 | Spring 2012  | yes | no|
-| CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2012  | ? | ?|
+| CSCI 7900 Doctor's Level Ind Study |  Spring 2014 | Spring 2014  | yes | no|
+| CSCI 7900 Doctor's Level Ind Study |  Fall 2014 | Fall 2014  | yes | no|
+| CSCI 8900 Doctoral Dissertation | Fall 2012 | Fall 2012  | ? | no|
+| CSCI 8900 Doctoral Dissertation | Spring 2013 | Spring 2013  | ? | no|
+| CSCI 8900 Doctoral Dissertation | Fall 2014 | Fall 2014  | ? | no|
+| PSYC 7775 Topics in Cognitive Science | Spring 2014 | Spring 2014  | yes | no|
+| SLHS 5000 Research Methods 1 | Spring 2014 | Spring 2014  | yes | no|
+| PSYC 5685 Prosem-Advn Experimental Psychology | Fall 2013 | Fall 2013  | yes | no|
+
 
 # Research
 
