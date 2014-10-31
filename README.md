@@ -53,7 +53,7 @@ Nikolaus Correll
 | CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2011  | yes/no | yes/no|
 | ECEN 5053 Special Topics (Assistiv Tech for Ppl w/ Disabl | Spring 2012 | Spring 2012  | yes | no|
 | CSCI 7900 Doctor's Level Ind Study |  Spring 2012 | Spring 2012  | yes | no|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| CSCI 8900 Doctoral Dissertation | Fall 2011 | Fall 2012  | ? | ?|
 
 # Research
 
