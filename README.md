@@ -67,7 +67,7 @@ Nikolaus Correll
 
 ## Publications
 * H. Profita, A. Roseway, and M. Czerwinski. An Evaluation of Wearable Light Form Factors for Seasonal Affective Disorder. In Review - The SIGCHI Conference on Human Factors in Computing Systems (CHI), 2015.
-* H. Profita, D. Brinkman, A. Lim, and R. Smith. Wall Relief: A Health-Oriented Interactive Installation for the Workplace Environment. In Review (Work In Progress) - The 9th International Conference on Tangible, Embedded and Embodied Interaction (TEI), 2015.
+* H. Profita, D. Brinkman, A. Lim, and R. Smith. Wall Relief: A Health-Oriented Interactive Installation for the Workplace Environment. (Work In Progress) - The 9th International Conference on Tangible, Embedded and Embodied Interaction (TEI), Palo Alto, CA, Jan. 2015.
 * H. Profita, A. Roseway, and M. Czerwinski. Lightwear: An Exploration in Wearable Light Therapy. To Appear - In Proc. of the 9th International Conference on Tangible, Embedded and Embodied Interaction (TEI), Palo Alto, CA, Jan. 2015. Acceptance rate: 28%.
 * H. Profita, N. Farrow, and N. Correll. Flutter: An Exploration of an Assistive Garment Using Distributed Sensing, Computation, and Actuation. To Appear - In Proc. of the 9th International Conference on Tangible, Embedded and Embodied Interaction (TEI), Palo Alto, CA, Jan. 2015. Acceptance rate: 28%.
 * K. Lyons and H. Profita. The Multiple Dispositions of Wearable Devices. Pervasive Computing: Special Issue – Wearable Computing, IEEE 13 (4), 24-31, Oct. 2014.
